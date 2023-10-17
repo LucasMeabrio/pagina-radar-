@@ -1,1 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proyecto R4D4R</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="header">
+        <h1>Proyecto R4D4R</h1>
+    </div>
+    <nav>
+        <a href="#">Inicio</a>
+        <a href="#">Conocer más</a>
+        <a href="#">Nosotros</a>
+    </nav>
+    <nav class="title">
+        <h2>Nuestro proyecto</h2>
+        <p>Lorem ipsum dolor, sit amet consectetur 
+            adipisicing elit. Delectus, quo ab eaque
+             odio quaerat blanditiis praesentium nihil 
+             officiis libero eos consequatur repellat soluta 
+             atque eum similique neque? Quia, unde 
+             repellendus?</p>
+         <figure>
+            <img src="img/radar.jpg" height="280px" width="100%"  alt="radar">
+        </figure>
 
+    </nav>
+    <nav class="title">
+        <h2>Materiales</h2>
+        <ul>
+            <li>blanditiis</li>
+            <li>blanditiis</li>
+            <li>blanditiis</li>
+            <li>blanditiis</li>
+
+        </ul>
+    </nav>
+    <nav class="title">
+        <h2>Nosotros</h2>
+
+
+    </nav>
+
+
+    
+</body>
+</html>
