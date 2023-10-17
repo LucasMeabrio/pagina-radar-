@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/style.css">
+    <title>Proyecto RADAR</title>
+</head>
+<body>
+    <div class="head">
+
+        <div class="logo">
+            <a href="#">Logo</a>
+        </div>
+        
+        <nav class="Navbar">
+            <a href="#">Inicio</a>
+            <a href="#">Nosotros</a>
+            <a href="#">Contacto</a>
+
+
+        </nav>
+    </div>
+
+    <header class="content header">
+        <h2 class="title">Inicio</h2>
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+            Officia quisquam sapiente autem necessitatibus quidem! 
+            Adipisci error molestias, nemo nulla saepe minus blanditiis 
+            neque excepturi eveniet, consectetur impedit cupiditate ipsum 
+            placeat?
+        </p>
+        <div class="btn-home">
+            <a href="#" class="btn">Saber mas</a>
+
+        </div>
+    </header>
+    <section class="content sau">
+        <h2 class="title">Radar</h2>
+        <p>
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. 
+            Veritatis voluptatibus ipsum in molestias! Omnis sit praesentium 
+            aut sunt dignissimos vel iure obcaecati. Deleniti, assumenda? Iste
+            in maiores dicta dolorem et?    </p>
+        <div class="box-container">
+            <div class="box">
+                <i class="fab ba-angular"></i>
+                <h3>Lorem</h3>
+                <p>Parrafin</p>
+            </div>
+            <div class="box">
+                <i class="fab ba-angular"></i>
+                <h3>Lorem</h3>
+                <p>Parrafin</p>
+            </div>
+            
+
+        </div>
+    </section>
+
+    <section class="content">
+
+        <h2 class="title">Nosotros</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
+             Magni nobis totam cupiditate reiciendis mollitia accusamus 
+             nam provident dolor quasi ab, voluptates eius ducimus ad 
+             officia corrupti quas architecto voluptas suscipit?</p>
+        <a href="#" class="btn">Saber mas</a>
+    
+    </section>
+    
+    <section class="content price">
+        <article class="contain">
+            <h2 class="title">Sopas</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                Magni nobis totam cupiditate reiciendis mollitia accusamus 
+                nam provident dolor quasi ab, voluptates eius ducimus ad 
+                officia corrupti quas architecto voluptas suscipit?</p>
+
+        </article>
+
+    </section>
+    <section class="content contact">
+        <h2 class="title">Contacto</h2>
+        <p>meabriolucas@gmail.com</p>
+        <figure class="runnin">
+
+
+
+    </section>
+
+
+
+</body>
+</html>
